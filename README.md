@@ -2,6 +2,8 @@
 
 # Window Switcher
 
+https://github.com/user-attachments/assets/c13c4e2c-40f5-42e0-a7dd-6ebdb21253ae
+
 A macOS utility for quickly switching between multiple windows of the **currently active application**.
 
 ## Features
