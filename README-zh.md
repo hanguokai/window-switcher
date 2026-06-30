@@ -2,6 +2,8 @@
 
 # Window Switcher
 
+https://github.com/user-attachments/assets/c13c4e2c-40f5-42e0-a7dd-6ebdb21253ae
+
 macOS 窗口快速切换工具 —— 在**当前激活应用**的多个窗口之间快速切换。
 
 ## 功能特性
